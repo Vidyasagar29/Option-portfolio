@@ -1,3 +1,5 @@
+setuptools
+wheel
 flask==3.1.2
 yfinance==0.2.27
 pandas==2.0.3
